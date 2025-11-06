@@ -3,6 +3,7 @@ This tutorial outlines the steps required to setup and connect to a Virtual Mach
 
  <h2>Environments and Technologies Used</h2>
 
+  - Goggle Chrome (Web Browser)
   - Microsoft Azure Portal  
   - Microsoft Azure (Virtual Machines)
   - Remote Desktop

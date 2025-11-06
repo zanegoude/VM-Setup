@@ -12,4 +12,5 @@ This tutorial outlines the steps to setup and connect to a Virtual Machine using
  
  <h2>List of Prerequisites</h2>
 
- - Microsoft Azure Account
+ - Microsoft Azure Tenant
+ - Microsoft Azure Subscription

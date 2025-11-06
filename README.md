@@ -9,7 +9,8 @@ This tutorial outlines the steps required to setup and connect to a Virtual Mach
   - Remote Desktop
  
  <h2>Operating Systems Used </h2>
- 
+
+ - Windows 10 Home ()
  - Windows 10</b> (21H2)
  
  <h2>List of Prerequisites</h2>

@@ -2,7 +2,8 @@
 This tutorial outlines the steps to setup and connect to a Virtual Machine using Microsoft Azure.
 
  <h2>Environments and Technologies Used</h2>
- 
+
+  - Microsft Azure Tenant   
   - Microsoft Azure (Virtual Machines)
   - Remote Desktop
  

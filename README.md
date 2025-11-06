@@ -1,5 +1,5 @@
 <h1>Azure: VM Deployment and Configuration</h1>
-
+This tutorial outlines the steps to setup and connect to a Virtual Machine using Microsoft Azure.
 
  <h2>Environments and Technologies Used</h2>
  

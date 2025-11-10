@@ -49,17 +49,22 @@ This tutorial outlines the steps required to setup and connect to a Virtual Mach
 
  - Using the Azure Search Bar again, search “Virtual Machines” and press Enter twice.
  - Press “Create” followed by “Virtual Machine” at the top of the VM overview page.
+   > <img width="50%" height="50%" alt="VM List" src="https://github.com/user-attachments/assets/54fcc42b-2063-4469-b491-6ca8bbe686d8" />
  - Input the name of the RG you just made.
  - Ensure the selected region matches your RG’s region.
  - Choose a name for your VM.
+   > <img width="50%" height="50%" alt="VM Creation 1" src="https://github.com/user-attachments/assets/735a1da9-fc6d-4cc0-bb9b-8916b9d08ce7" />
  - Choose “Windows 11 Pro, version 25H2 - x64 Gen2” for the “Image.”
  - Choose “Standard_D2s_v3 - 2 vcpus, 8 GiB memory” for the “Size”
- - If you receive an error message stating that the zone is not available, select a suggested zone. 
+ - If you receive an error message stating that the zone is not available, select a suggested zone.
+   > <img width="50%" height="50%" alt="VM Creation 2" src="https://github.com/user-attachments/assets/83a25911-5bba-4041-8916-f5c57b078b6f" />
  - Choose a Username and Password for the Administrator Account.
  - In the Licensing section, read the agreement and check the box.
+   > <img width="50%" height="50%" alt="VM Creation 3" src="https://github.com/user-attachments/assets/f0bee495-54f5-4aea-aaad-14bdb2d97553" />
  - In the bottom left, click “Next” twice to get to the Networking section.
  - Click “Edit virtual network” under the “Virtual Network” name input box.
  - Choose a name for your new Virtual Network(vnet) and click “Save”.
+   > <img width="50%" height="50%" alt="VM Creation 4" src="https://github.com/user-attachments/assets/420c46f9-2172-4db4-8194-cf8f8bb69bed" />
  - In the bottom left, click “Review + Create”.
  - Wait for the validation process to finish, then click “Create”.
  - Wait for the resources to be made on the back end.
@@ -70,9 +75,11 @@ This tutorial outlines the steps required to setup and connect to a Virtual Mach
 
  - Return to the VM overview page, open the VM you just created
  - On the “Overview” tab, locate “Primary NIC public IP” in the “Essentials” blade.
+   > <img width="50%" height="50%" alt="VM Overview Tab" src="https://github.com/user-attachments/assets/1d9b127a-f515-4498-ac14-4ff777ef7f09" />
  - Copy the IP address to your clipboard.
  - Open the Windows Start menu, type “RDP,” and press Enter.
  - Put the VM’s public IP address into the “Computer” section and press “Connect”.
+   > <img width="50%" height="50%" alt="RDP Connection" src="https://github.com/user-attachments/assets/c0f5a609-f35f-4892-aa32-c94d4361dd6a" />
  - Enter the login credentials for the admin account you created for the VM and press Enter.
  - If the Remote Desktop Connection warning appears, click “Yes”.
  - Once the VM is done booting up, select your desired setup for the initial settings and press “Accept.”
@@ -80,6 +87,8 @@ This tutorial outlines the steps required to setup and connect to a Virtual Mach
 </br>
 
 <h3>Congrats! You’ve successfully created and logged into an Azure Virtual Machine.</h3>
+  > <img width="50%" height="50%" alt="VM Desktop" src="https://github.com/user-attachments/assets/7abb494e-3aa8-45d7-a394-5a878c974e42" />
+
 
 
 

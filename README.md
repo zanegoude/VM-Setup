@@ -24,6 +24,8 @@ This tutorial outlines the steps required to setup and connect to a Virtual Mach
 
  - Open your Web Browser of choice.
  - Log in to the Azure Portal at: https://portal.azure.com/
+   > <img width="50%" height="50%" alt="Azure Portal Home" src="https://github.com/user-attachments/assets/da240adf-8e4c-4487-86c0-e7d91cdb0633" />
+
 
 </br>
 

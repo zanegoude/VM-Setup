@@ -24,7 +24,8 @@ This tutorial outlines the steps required to setup and connect to a Virtual Mach
 
  - Open your Web Browser of choice.
  - Log in to the Azure Portal at: https://portal.azure.com/
-   > <img width="50%" height="50%" alt="Azure Portal Home" src="https://github.com/user-attachments/assets/da240adf-8e4c-4487-86c0-e7d91cdb0633" />
+   > <img width="50%" height="50%" alt="Azure Portal Home" src="https://github.com/user-attachments/assets/10261bbd-adbf-485f-a842-b0a54a384bf9" />
+
 
 
 </br>
@@ -32,10 +33,13 @@ This tutorial outlines the steps required to setup and connect to a Virtual Mach
 <h3>Step 2: Creating an Azure Resource Group(RG)</h3>
 
  - Using the Azure Search Bar at the top of the Azure Portal, search “Resource Groups” and press Enter twice.
+   > <img width="50%" height="50%" alt="Azure Portal Search" src="https://github.com/user-attachments/assets/4e4b88ae-9ae7-4c7d-abb9-f278fa71f09c" />
  - Press “Create” at the top of the RG overview page.
+   > <img width="50%" height="50%" alt="RG List" src="https://github.com/user-attachments/assets/b5b89949-951a-4b4b-b2d6-29f2239eceb3" />
  - Choose a name for your RG.
  - Select the region you would like your RG to be hosted in.
  - Click “Review + Create” at the bottom left of the “Create a Resource Group” page.
+   > <img width="50%" height="50%" alt="RG Creation" src="https://github.com/user-attachments/assets/a255cb02-432f-402d-87bb-da068eaa3107" />
  - Then click  “Create.”
  - Wait for the resources to be made on the back end.
 
